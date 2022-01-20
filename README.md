@@ -1,4 +1,4 @@
-### Olá! eu sou Carlos :v:
+### Olá! Eu sou Carlos :v:
 
 ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosEduardo704&show_icons=true&theme=)
 
